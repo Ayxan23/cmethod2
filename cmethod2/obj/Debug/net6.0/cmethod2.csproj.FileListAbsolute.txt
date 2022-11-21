@@ -1,0 +1,15 @@
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\bin\Debug\net6.0\cmethod2.exe
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\bin\Debug\net6.0\cmethod2.deps.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\bin\Debug\net6.0\cmethod2.runtimeconfig.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\bin\Debug\net6.0\cmethod2.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\bin\Debug\net6.0\cmethod2.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\cmethod2.csproj.AssemblyReference.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\cmethod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\cmethod2.AssemblyInfoInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\cmethod2.AssemblyInfo.cs
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\cmethod2.csproj.CoreCompileInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\cmethod2.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\refint\cmethod2.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\cmethod2.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\cmethod2.genruntimeconfig.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\cmethod2\cmethod2\obj\Debug\net6.0\ref\cmethod2.dll
